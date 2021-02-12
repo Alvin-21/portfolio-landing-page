@@ -8,6 +8,12 @@
 }
 
 .name {
-    font-size: 24pt;
+    font-size: 26pt;
     font-family: 'Stalinist One', cursive;
+    border-width: 3px;
+    border-color: purple;
+    width: 175px;
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
 }
