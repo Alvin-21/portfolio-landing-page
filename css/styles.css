@@ -72,13 +72,24 @@ body {
     display: flex;
 }
 
-.center {
-    position: relative;
-    left: 310px;
-}
-
 .underline {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
+
+.aboutme article {
+    position: relative;
+    top: 100px;
+    right: 45px;
+}
+
+.aboutme h2 {
+    height: 50px;
+    width: 300px;
+    padding: 5px;
+    position: relative;
+    left: 310px;
+    top: 50px;
+}
+
