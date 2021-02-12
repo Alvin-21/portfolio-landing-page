@@ -58,3 +58,15 @@ h4 {
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.pic_2 {
+    height: 300px;
+    width: 500px;
+    padding: 0;
+    margin: 0 -40px;
+}
