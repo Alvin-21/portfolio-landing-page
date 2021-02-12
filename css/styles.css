@@ -54,9 +54,6 @@ h4 {
     justify-content: center;
     position: relative;
     top: 17px;
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 3px;
 }
 
 body {
@@ -75,7 +72,13 @@ body {
     display: flex;
 }
 
-.left {
+.center {
     position: relative;
     left: 310px;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
