@@ -6,3 +6,7 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.name {
+    font-size: 24pt;
+}
