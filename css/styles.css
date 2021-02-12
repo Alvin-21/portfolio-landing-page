@@ -27,7 +27,31 @@
 }
 
 img {
-    height: 380px;
-    width: 380px;
+    height: 350px;
+    width: 350px;
     border-radius: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+header h1 {
+    position: relative;
+    top: 100px;
+    left: 30px
+}
+
+header nav {
+    position: relative;
+    top: 80px;
+    right: 30px;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 17px;
 }
