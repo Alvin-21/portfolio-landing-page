@@ -102,3 +102,17 @@ body {
     bottom: 10px;
     width: 1000px;
 }
+
+.center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.adjust {
+    position: relative;
+    top: 25px;
+}
