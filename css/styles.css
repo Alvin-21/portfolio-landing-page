@@ -38,6 +38,7 @@ body {
     font-size: 24pt;
     font-family: 'Grenze Gotisch', cursive;
     text-decoration: none;
+    font-style: normal;
 }
 
 .profile_pic {
@@ -174,7 +175,7 @@ input {
     padding: 20px;
     font-family: 'Oregano', cursive;
     color: rgb(210, 126, 218);
-    font-size: 15pt;
+    font-size: 17pt;
 }
 
 .footer {
