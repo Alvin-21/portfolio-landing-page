@@ -9,6 +9,10 @@ body {
     color: rgb(210, 126, 218);
 }
 
+.colour {
+    color: rgb(210, 126, 218);
+}
+
 .container {
     display: flex;
     justify-content: space-evenly;
@@ -33,6 +37,7 @@ body {
     bottom: 20px;
     font-size: 24pt;
     font-family: 'Grenze Gotisch', cursive;
+    text-decoration: none;
 }
 
 .profile_pic {
