@@ -88,7 +88,7 @@ body {
 
 .aboutme h2 {
     height: 50px;
-    width: 300px;
+    width: 350px;
     padding: 5px;
     position: relative;
     left: 310px;
@@ -168,4 +168,8 @@ input {
 footer span {
     float: right;
     padding: 5px;
+}
+
+h2 {
+    font-family: 'Black Ops One', cursive;
 }
