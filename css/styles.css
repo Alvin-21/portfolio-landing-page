@@ -90,7 +90,7 @@ body {
 
 .aboutme h2 {
     height: 50px;
-    width: 350px;
+    width: 500px;
     padding: 5px;
     position: relative;
     left: 310px;
@@ -174,4 +174,19 @@ footer span {
 
 h2, h4 {
     font-family: 'Black Ops One', cursive;
+}
+
+li {
+    font-family: 'Oregano', cursive;
+    letter-spacing: 0.05em;
+    font-size: 15pt;
+}
+
+a {
+    font-family: 'Oregano', cursive;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
 }
