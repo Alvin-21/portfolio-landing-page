@@ -42,7 +42,8 @@ header {
 header h1 {
     position: relative;
     top: 100px;
-    left: 30px
+    left: 30px;
+    font-family: 'Finger Paint', cursive;
 }
 
 header nav {
