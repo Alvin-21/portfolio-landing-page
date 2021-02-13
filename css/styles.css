@@ -24,7 +24,8 @@
     margin: auto -50px;
     position: relative;
     bottom: 20px;
-    font-size: 18pt;
+    font-size: 24pt;
+    font-family: 'Grenze Gotisch', cursive;
 }
 
 .profile_pic {
