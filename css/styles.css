@@ -152,3 +152,7 @@ input {
     float: right;
     padding: 20px;
 }
+
+.footer {
+    display: flex;
+}
