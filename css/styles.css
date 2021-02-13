@@ -167,6 +167,9 @@ input {
 .up {
     float: right;
     padding: 20px;
+    font-family: 'Oregano', cursive;
+    color: rgb(210, 126, 218);
+    font-size: 15pt;
 }
 
 .footer {
