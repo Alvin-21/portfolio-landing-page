@@ -155,4 +155,11 @@ input {
 
 .footer {
     display: flex;
+    justify-content: space-around;
+}
+
+.footer img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
 }
