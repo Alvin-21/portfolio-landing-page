@@ -116,3 +116,11 @@ body {
     position: relative;
     top: 25px;
 }
+
+ol li {
+    list-style-type: lower-roman;
+}
+
+ul li {
+    list-style-type: square;
+}
