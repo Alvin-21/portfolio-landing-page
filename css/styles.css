@@ -57,6 +57,7 @@ h4 {
     justify-content: center;
     position: relative;
     top: 17px;
+    font-size: 13pt;
 }
 
 body {
@@ -84,17 +85,19 @@ body {
 
 .aboutme article {
     position: relative;
-    top: 100px;
+    top: 50px;
     right: 45px;
+    height: 250px;
 }
 
 .aboutme h2 {
     height: 50px;
-    width: 500px;
+    width: 900px;
     padding: 5px;
     position: relative;
     left: 310px;
-    top: 50px;
+    bottom: 10px;
+    font-size: 25pt;
 }
 
 .spacing {
@@ -176,7 +179,7 @@ h2, h4 {
     font-family: 'Black Ops One', cursive;
 }
 
-li {
+li, span {
     font-family: 'Oregano', cursive;
     letter-spacing: 0.05em;
     font-size: 15pt;
@@ -189,4 +192,9 @@ a {
 
 p {
     font-family: 'Roboto Mono', monospace;
+    font-size: 14pt;
+}
+
+h2 {
+    font-size: 25pt;
 }
