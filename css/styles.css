@@ -44,6 +44,7 @@ body {
 header {
     display: flex;
     justify-content: space-around;
+    padding: 10px;
 }
 
 header h1 {
@@ -71,17 +72,25 @@ h4 {
     height: 300px;
     width: 500px;
     padding: 0;
-    margin: 0 -40px;
+    margin: 0;
 }
 
 .aboutme {
     display: flex;
+    padding: 100px 0;
 }
 
 .underline {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
+}
+
+.aboutme figure {
+    padding: 0;
+    margin: 0;
+    width: 600px;
+    height: 320px;
 }
 
 .aboutme article {
@@ -122,7 +131,7 @@ h4 {
 
 .adjust {
     position: relative;
-    top: 25px;
+    bottom: 30px;
 }
 
 ol li {
@@ -171,9 +180,9 @@ input {
     border-radius: 100%;
 }
 
-footer span {
-    float: right;
-    padding: 5px;
+.footnote {
+    text-align: right;
+    padding: 10px;
 }
 
 h2, h4 {
@@ -189,6 +198,7 @@ li, span {
 a {
     font-family: 'Oregano', cursive;
     font-style: italic;
+    color: whitesmoke;
 }
 
 p {
@@ -201,10 +211,46 @@ h2 {
     font-size: 25pt;
 }
 
-.top_part, .aboutme {
+.top_part, .aboutme, .ps, .projects, .bottom {
     background-color: rgb(49, 49, 49);
 }
 
 nav ul {
     color: whitesmoke;
+}
+
+.background {
+    padding: 60px 0;
+}
+
+.ps {
+    padding: 60px 0;
+}
+
+.hobbies {
+    padding: 60px 0;
+}
+
+.projects {
+    padding: 60px 0;
+}
+
+.flex article {
+    position: relative;
+    bottom: 40px;
+}
+
+.form {
+    width: 800px;
+    padding: 40px 0;
+}
+
+.form_container {
+    border-style: solid;
+    width: 460px;
+    padding: 10px;
+}
+
+.bottom {
+
 }
