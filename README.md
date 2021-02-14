@@ -34,7 +34,7 @@ If you would like to raise an issue or contribute to this project, contact me on
 
 [MIT License](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2021 Alvin
+Copyright (c) 2021 Alvin Awuor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
