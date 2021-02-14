@@ -20,7 +20,6 @@ This project was set up to showcase my personal details such as my background, s
 
 * The screen seems to display extra space on the right
 * The submit button does not send data to the required target,  instead it displays a 404 error
-* The social media images at the bottom of the page do not display on Safari web browser
 
 ## Technologies Used
 
